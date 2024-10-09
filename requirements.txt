@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+textfsm
+pydantic
+python-multipart
